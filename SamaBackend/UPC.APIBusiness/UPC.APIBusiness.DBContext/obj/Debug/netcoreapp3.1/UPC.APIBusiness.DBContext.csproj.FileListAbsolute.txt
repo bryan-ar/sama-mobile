@@ -1,0 +1,24 @@
+C:\Proyectos\Net\Semana07BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.deps.json
+C:\Proyectos\Net\Semana07BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.dll
+C:\Proyectos\Net\Semana07BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.pdb
+C:\Proyectos\Net\Semana07BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.dll
+C:\Proyectos\Net\Semana07BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.pdb
+C:\Proyectos\Net\Semana07BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.AssemblyReference.cache
+C:\Proyectos\Net\Semana07BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.AssemblyInfoInputs.cache
+C:\Proyectos\Net\Semana07BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.AssemblyInfo.cs
+C:\Proyectos\Net\Semana07BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.CoreCompileInputs.cache
+C:\Proyectos\Net\Semana07BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.CopyComplete
+C:\Proyectos\Net\Semana07BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.dll
+C:\Proyectos\Net\Semana07BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.pdb
+D:\cursos2\ing de sis\desarrollo web\entrega 3\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.deps.json
+D:\cursos2\ing de sis\desarrollo web\entrega 3\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.dll
+D:\cursos2\ing de sis\desarrollo web\entrega 3\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.pdb
+D:\cursos2\ing de sis\desarrollo web\entrega 3\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.dll
+D:\cursos2\ing de sis\desarrollo web\entrega 3\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.pdb
+D:\cursos2\ing de sis\desarrollo web\entrega 3\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.AssemblyReference.cache
+D:\cursos2\ing de sis\desarrollo web\entrega 3\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.AssemblyInfoInputs.cache
+D:\cursos2\ing de sis\desarrollo web\entrega 3\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.AssemblyInfo.cs
+D:\cursos2\ing de sis\desarrollo web\entrega 3\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.CoreCompileInputs.cache
+D:\cursos2\ing de sis\desarrollo web\entrega 3\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.CopyComplete
+D:\cursos2\ing de sis\desarrollo web\entrega 3\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.dll
+D:\cursos2\ing de sis\desarrollo web\entrega 3\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.pdb

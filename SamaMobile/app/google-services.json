@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "780995964115",
+    "project_id": "sama-a3641",
+    "storage_bucket": "sama-a3641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780995964115:android:2115203dd9f729595b3826",
+        "android_client_info": {
+          "package_name": "com.android.sama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780995964115-orrcf1db4uc2mbvt1oimgesef8ltrf0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.sama",
+            "certificate_hash": "da4a42d91fa8e6487e20f3edb8cdffe6fd2848d8"
+          }
+        },
+        {
+          "client_id": "780995964115-33su98t0ukjt0ejduoicfmkhssh55nsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEtdFSV_8020Q-5dX2lUBUjgAqybfCrfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780995964115-33su98t0ukjt0ejduoicfmkhssh55nsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

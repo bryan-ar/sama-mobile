@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OrdenActivity">
+
+    <LinearLayout
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:gravity="center"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ivMenuPedidos"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:src="@drawable/icon_back"
+            android:tint="@color/colorPrimary" />
+    </LinearLayout>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="30dp" />
+
+    <TextView
+        android:id="@+id/tvMiOrden"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mi Orden"
+        android:textColor="@color/colorTextBlack"
+        android:textSize="24sp"
+        android:lineHeight="30sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="32dp"
+        android:layout_marginStart="32dp"
+        android:textStyle="bold"
+        android:textFontWeight="800"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline" />
+
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@color/colorBgInput"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayoutCompat"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvMiOrden">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvOrdenDetalle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            android:layoutAnimation="@anim/layout_animation_down_to_up" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvOrdenNuevoPedido"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            android:layoutAnimation="@anim/layout_animation_down_to_up" />
+
+    </FrameLayout>
+
+    <com.google.android.material.divider.MaterialDivider
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:dividerInsetStart="16dp"
+        app:dividerInsetEnd="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintStart_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/linearLayoutCompat" />
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/linearLayoutCompat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="16dp"
+            android:layout_marginBottom="32dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Total"
+                android:textColor="@color/colorTextBlack"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:layout_weight="5" />
+
+            <TextView
+                android:id="@+id/tvTotalPagar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="S/49.50"
+                android:textColor="@color/colorTextBlack"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_registrar_pedido"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            app:icon="@drawable/icon_save"
+            app:iconGravity="textStart"
+            android:text="Continuar"
+            android:textAllCaps="false"
+            android:fontFamily="@font/nunito"
+            android:textFontWeight="800"
+            android:letterSpacing="0.1"
+            android:textStyle="normal"
+            app:cornerRadius="12dp"
+            app:iconTint="@color/white"
+            android:elevation="8dp"/>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

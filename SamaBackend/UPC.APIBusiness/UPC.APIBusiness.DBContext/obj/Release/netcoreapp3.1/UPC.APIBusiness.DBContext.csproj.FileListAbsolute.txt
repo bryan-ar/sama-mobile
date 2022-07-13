@@ -1,0 +1,13 @@
+C:\Proyectos\Net\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Release\netcoreapp3.1\UPC.APIBusiness.DBContext.deps.json
+C:\Proyectos\Net\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Release\netcoreapp3.1\UPC.APIBusiness.DBContext.dll
+C:\Proyectos\Net\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Release\netcoreapp3.1\UPC.APIBusiness.DBContext.pdb
+C:\Proyectos\Net\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Release\netcoreapp3.1\UPC.APIBusiness.DBEntity.dll
+C:\Proyectos\Net\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Release\netcoreapp3.1\UPC.APIBusiness.DBEntity.pdb
+C:\Proyectos\Net\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Release\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.AssemblyReference.cache
+C:\Proyectos\Net\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Release\netcoreapp3.1\UPC.APIBusiness.DBContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Net\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Release\netcoreapp3.1\UPC.APIBusiness.DBContext.AssemblyInfoInputs.cache
+C:\Proyectos\Net\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Release\netcoreapp3.1\UPC.APIBusiness.DBContext.AssemblyInfo.cs
+C:\Proyectos\Net\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Release\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.CoreCompileInputs.cache
+C:\Proyectos\Net\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Release\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.CopyComplete
+C:\Proyectos\Net\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Release\netcoreapp3.1\UPC.APIBusiness.DBContext.dll
+C:\Proyectos\Net\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Release\netcoreapp3.1\UPC.APIBusiness.DBContext.pdb
